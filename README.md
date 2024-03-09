@@ -4,7 +4,7 @@ Sign-in with passkey into Appwrite Account.
 
 ## 🧰 Usage
 
-Read tutorial [article on Dev.to]() to learn more.
+Read tutorial [article on Dev.to](https://dev.to/meldiron/biometric-authentication-with-passkeys-3e1) to learn more.
 
 ## ⚙️ Configuration
 
